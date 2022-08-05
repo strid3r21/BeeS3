@@ -11,7 +11,8 @@ bees3.set_pixel_power(True)
 
 # This code will monitor the battery voltage on a 1S lipo battery 
 # plugged into the board. lipo max charge is around 4.2v and completely dead is 
-# anything below 3.2v. 
+# anything below 3.2v.  it will turn the RGB LED Red for dead, Yellow for middle of the road and Green for charged
+# or near full.
 
 while True:
         vbat_voltage =  bees3.get_battery_voltage()

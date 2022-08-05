@@ -20,22 +20,3 @@ flash_free = flash[0] * flash[3]
 print("Flash - os.statvfs('/')")
 print("---------------------------")
 print("Size: {} Bytes\nFree: {} Bytes\n".format(flash_size, flash_free))
-
-# Create a colour wheel index int
-color_index = 0
-
-# Turn on the power to the NeoPixel
-bees3.set_pixel_power(True)
-
-# Rainbow colours on the NeoPixel
-while True:
-    # Get the R,G,B values of the next colour
-    r,g,b = bees3.rgb_color_wheel( color_index )
-    # Set the colour on the NeoPixel
-    pixel[0] = ( r, g, b, 0.5)
-    # Increase the wheel index
-    color_index += 1
-
-    # Sleep for 15ms so the colour cycle isn't too fast
-    time.sleep(0.015)
-

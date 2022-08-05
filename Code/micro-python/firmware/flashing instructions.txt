@@ -1,4 +1,0 @@
-
-esptool.py --port COMxx erase_flash
-
-esptool.py --chip esp32s3 --port COMxx write_flash -z 0 firmware.bin

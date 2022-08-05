@@ -13,7 +13,6 @@ This library can be installed through the Arduino library manager or manually fr
 // Initializes all Bee S3 board peripherals
 void begin();
 
-
 // Set neopixel power on or off
 void setPixelPower(bool on);
 

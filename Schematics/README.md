@@ -1,5 +1,5 @@
 ## Board Layout
-![alt text](https://github.com/strid3r21/Bee-Motion/blob/main/Schematics/board.jpg?raw=true)
+![alt text](https://github.com/strid3r21/BeeS3/blob/master/Schematics/Board_Layout.png?raw=true)
 
 ## Schematic
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Schematics/Schematic.png?raw=true)

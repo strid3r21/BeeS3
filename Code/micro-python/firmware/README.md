@@ -22,7 +22,7 @@ Change (X) to whatever COM port is being used by the board
 esptool --chip esp32s3 --port COMxxx erase_flash
 ```
 
-#Now download the version of the firmware you would like to install from the options below.
+Now download the version of the firmware you would like to install from the options below.
 
 ### Linux
 ```bash

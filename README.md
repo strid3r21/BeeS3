@@ -8,6 +8,7 @@
 
 ---
 
+<!--
 ## Front
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Bee%20ESP32%20S3-front.jpg?raw=true)
@@ -16,7 +17,7 @@
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Bee%20ESP32%20S3-back.jpg?raw=true)
 
-<!--
+
 
  ## **Buy on** [Tindie](https://www.tindie.com/products/smartbee/bee-motion-esp32-pir-motion-sensor/)
 

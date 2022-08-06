@@ -1,17 +1,17 @@
-## Power Consumption Metrics
+# Power Consumption Metrics
 
-# Deep Sleep Current draw. <20uA!!
+## Deep Sleep Current draw. <20uA!!
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Power-Metrics/Deep%20Sleep.jpg?raw=true)
 
-# Wake with no Wifi
+## Wake with no Wifi. 40mAh average.
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Power-Metrics/Wake%20Current%20no%20WiFi.png?raw=true)
 
-# Wake with Wifi Connected - No traffic
+## Wake with Wifi Connected - No traffic. 55+ mAh average.
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Power-Metrics/Wake%20Current%20w%20WiFi.png?raw=true)
 
-# Power Consumption sending/receiving MQTT messages. 100mAh average.
+## Power Consumption sending/receiving MQTT messages. 100mAh average.
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Power-Metrics/Wake%20Current%20MQTT.png?raw=true)

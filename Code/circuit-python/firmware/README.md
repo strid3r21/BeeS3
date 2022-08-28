@@ -18,7 +18,7 @@ esptool.py --chip esp32s3 --port /dev/cu.usbmodem01 erase_flash
 ### Windows
 Change xxx to whatever COM port is being used by the board
 ```bash
-esptool --chip esp32s3 --port COMxxx erase_flash
+esptool.py --chip esp32s3 --port COMxxx erase_flash
 
 ___________
 ```

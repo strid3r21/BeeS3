@@ -4,7 +4,7 @@
 
 # Pinouts
 
-![alt text](https://github.com/strid3r21/BeeS3/blob/master/Pin-Card.png?raw=true)
+![alt text](https://github.com/strid3r21/BeeS3/blob/master/Pin-Card-2.png?raw=true)
 
 ---
 

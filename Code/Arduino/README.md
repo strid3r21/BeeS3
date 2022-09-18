@@ -1,6 +1,6 @@
 # Smart Bee Designs Bee S3 Arduino Helper Library
 
-Examples can be found in the [Bee S3 Arduino Helper](https://github.com/strid3r21/BeeS3-Arduino-Helper) repo OR these can also be loaded from the examples menu in the Arduino IDE.
+Examples can be found in the [Bee S3 Arduino Helper](https://github.com/strid3r21/BeeS3-Arduino-Helper) repo.
 
 ## Installation
 

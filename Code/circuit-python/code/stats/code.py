@@ -1,11 +1,4 @@
-import time, gc, os
-import neopixel
-import board, digitalio
-import bees3
-
-# Create a NeoPixel instance
-# Brightness of 0.3 is ample for the 1515 sized LED
-pixel = neopixel.NeoPixel(board.NEOPIXEL, 1, brightness=0.3, auto_write=True, pixel_order=neopixel.GRB)
+import gc, os
 
 
 # Show available memory

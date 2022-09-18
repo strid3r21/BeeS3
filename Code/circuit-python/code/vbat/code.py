@@ -19,10 +19,10 @@ while True:
         if vbat_voltage < 3.2:
                 pixel[0] = ( 255, 0, 0, 0.5)
                 pixel.write()
-        if vbat_voltage >= 3.2 and voltage < 3.5 :
+        if vbat_voltage >= 3.2 and vbat_voltage < 3.5 :
                 pixel[0] = ( 252, 140, 3, 0.5)
                 pixel.write()
-        if vbat_voltage >= 3.5 and voltage < 4.0 :
+        if vbat_voltage >= 3.5 and vbat_voltage < 4.0 :
                 pixel[0] = ( 227, 252, 3, 0.5)
                 pixel.write()
         if vbat_voltage >= 4.0:

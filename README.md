@@ -1,8 +1,9 @@
 # BeeS3
 
 ## **Visit our** [Discord](https://tinyurl.com/Bee-Motion-Discord-Git)
+## **Buy on** [Tindie](https://www.tindie.com/products/smartbee/bee-s3-esp32-s3/)
 
-# Pinouts
+### Pinouts
 
 ![alt text](https://github.com/strid3r21/BeeS3/blob/master/Pin-Card_for-github.jpg?raw=true)
 

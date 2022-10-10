@@ -2,6 +2,7 @@
 
 ## **Visit our** [Discord](https://tinyurl.com/Bee-Motion-Discord-Git)
 ## **Buy on** [Tindie](https://www.tindie.com/products/smartbee/bee-s3-esp32-s3/)
+## **Buy on** [Lectronz](https://www.lectronz.com/products/bee-s3-esp32-s3) **EU/UK**
 
 ### Pinouts
 

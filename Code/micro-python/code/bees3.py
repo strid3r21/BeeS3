@@ -32,6 +32,9 @@ def set_rgb_power(state):
     """Enable or Disable power to the second LDO"""
     Pin(RGB_PWR, Pin.OUT).value(state)
 
+def set_proto_power(state):
+    """Enable or Disable power to the second LDO"""
+    Pin(35, Pin.OUT).value(state)
 
 def get_battery_voltage():
     """

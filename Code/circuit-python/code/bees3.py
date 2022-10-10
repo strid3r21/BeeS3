@@ -11,6 +11,9 @@ from analogio import AnalogIn
 pixel_power = DigitalInOut(board.NEOPIXEL_POWER)
 pixel_power.direction = Direction.OUTPUT
 
+proto_power = DigitalInOut(board.D35)
+proto_power.direction = Direction.OUTPUT
+
 # Setup the BATTERY voltage sense pin
 vbat_voltage = AnalogIn(board.BATTERY)
 
@@ -20,6 +23,11 @@ def set_pixel_power(state):
     """Enable or Disable power to the onboard NeoPixel to either show colour, or to turn off to reduce current consumption."""
     global pixel_power
     pixel_power.value = state
+
+def set_proto_power(state):
+    """Enable or Disable power to the onboard NeoPixel to either show colour, or to turn off to reduce current consumption."""
+    global proto_power
+    proto_power.value = state
     
 def get_battery_voltage():
     """Get the approximate battery voltage."""

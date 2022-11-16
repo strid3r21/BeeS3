@@ -3,6 +3,8 @@
 Hit reset and then boot in guick succession which will give access to the Bee S3's bootloader drive which is call BEES3BOOT.
 with this drive open just drag the firmware.uf2 file to the drive and it will update the UF2 firmware.
 
+You can find the most up to date UF2 firmware here - https://circuitpython.org/board/smartbeedesigns_bee_s3/ 
+
 # Flashing Circuit Python Firmware onto your board.
 
 put the board into download mode by holding boot button and pressing reset button then release both buttons. 
